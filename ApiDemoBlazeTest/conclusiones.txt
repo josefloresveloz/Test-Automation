@@ -1,0 +1,4 @@
+* Se debe tener en cuenta que la versión de SDK debe ser compatible con Karate,
+  ya que algunas versiones podrian ocacionar errores
+
+  

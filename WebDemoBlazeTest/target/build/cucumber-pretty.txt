@@ -1,0 +1,6 @@
+
+@TestDemoWeb @Test
+Scenario: Agregar carrito              [90m# src/test/resources/features/demoblaze.feature:5[0m
+  [32mGiven [0m[32mque ingreso a la web de compra[0m [90m# com.bdd.stepdefinition.DemoBlazeSD.queIngresoALaWebDeCompra()[0m
+  [32mWhen [0m[32magrego dos producto al carrito[0m  [90m# com.bdd.stepdefinition.DemoBlazeSD.agregoDosProductoAlCarrito()[0m
+  [32mThen [0m[32mrealizo el pago[0m                 [90m# com.bdd.stepdefinition.DemoBlazeSD.realizoElPago()[0m

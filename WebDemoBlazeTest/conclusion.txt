@@ -1,0 +1,5 @@
+* Cuando se usa la espera explícita puede llegar a fallar la ejecución si no se controla adecuadamente
+* Si se requiere capturar las imagenes se debe hacer que la ejecución espere, porque sino no capturaria
+  la imagen adecuada, ya que se ejecutaría muy rapido.
+
+  En conclusion el uso de espera siempre es necesaario
